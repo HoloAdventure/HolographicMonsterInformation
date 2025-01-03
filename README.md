@@ -1,4 +1,4 @@
-# HolographicMonsterInformation
+# Information about the HolographicMonster app
 
 This section contains information about the HolographicMonster application.
 
