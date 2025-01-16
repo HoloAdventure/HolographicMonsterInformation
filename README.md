@@ -55,4 +55,5 @@ By using the Application, you are consenting to the processing of your informati
 If you have any questions regarding privacy while using the Application, or have questions about the practices, or if you wish to request deletion of your user data, Please contact the following service providers via email.
 
 Fukumoto Ryosuke
+
 holomon.holographicmonster@gmail.com
