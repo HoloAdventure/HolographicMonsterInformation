@@ -16,6 +16,12 @@ The Application collects information when you download and use it. This informat
 
 The Application does not gather precise information about the location of your mobile device.
 
+# Purpose of Use of User Data
+The Service Provider will properly handle user information within the scope of the following purposes.
+
+・To maintain and improve this application and to consider new features, etc.
+・To investigate and analyze the usage of this application
+
 # Third Party Access
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
@@ -43,3 +49,9 @@ This privacy policy is effective as of 2025-01-01
 
 # Your Consent
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+
+# Contact Me
+If you have any questions regarding privacy while using the Application, or have questions about the practices, or if you wish to request deletion of your user data, Please contact the following service providers via email.
+
+Fukumoto Ryosuke
+holomon.holographicmonster@gmail.com
