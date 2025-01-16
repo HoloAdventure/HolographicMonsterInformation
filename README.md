@@ -20,6 +20,7 @@ The Application does not gather precise information about the location of your m
 The Service Provider will properly handle user information within the scope of the following purposes.
 
 ・To maintain and improve this application and to consider new features, etc.
+
 ・To investigate and analyze the usage of this application
 
 # Third Party Access
